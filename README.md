@@ -3,9 +3,10 @@
 ## 📌 Description
 A Java-based desktop application designed to assist in mental healthcare management. This system allows patients to book appointments, doctors to prescribe treatments, and admins to manage users. It demonstrates core Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, abstraction, and polymorphism. Built using Java Swing for the GUI and file handling for data storage.
 
-## 👥 Developer
-- **Amna Munir**
-
+## 👥 Team Members 
+- **Amna Munir** -( Team Lead)
+- **Zainab Khalid**
+- **Ansa Ishfaq** 
 ## 🚀 Features
 - Patient and Doctor Registration/Login
 - Role-based Dashboards (Admin/Doctor/Patient)
